@@ -35,3 +35,6 @@ Root directory:
 Model directory:
 1. [`AlphabetSoupCharity.h5`](https://github.com/RyanLJames1997/Machine_Deep_Learning_Alphabet_Soup/blob/main/Alphabet_Soup/Starter_Code/models/AlphabetSoupCharity.h5), is the initial HDF5 file.
 2. [`AlphabetSoupCharity_Optimisation.h5`](https://github.com/RyanLJames1997/Machine_Deep_Learning_Alphabet_Soup/blob/main/Alphabet_Soup/Starter_Code/models/AlphabetSoupCharity_Optimiser.h5), is the final optimised HDF5 file.
+
+Image directory:
+1. [`Model_Images`](https://github.com/RyanLJames1997/Machine_Deep_Learning_Alphabet_Soup/tree/main/Alphabet_Soup/Starter_Code/Model_Images), contains all imagery of model structure and results for both the initial run and optimised run.
