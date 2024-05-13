@@ -10,7 +10,7 @@ A nonprofit foundation `Alphabet Soup` wants to develop a tool that can help ide
 
 From `Alphabet Soup's` business team, a `CSV.file` containing more than `34,000` organisations that have recieved funding Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organisation. These include:
 ```
-  - `EIN and NAME` — Identification columns
+  - **EIN and NAME**: Identification columns
   - `APPLICATION_TYPE` — Alphabet Soup application type
   - `AFFILIATION` — Affiliated sector of industry
   - `CLASSIFICATION` — Government organisation classification
